@@ -1,0 +1,157 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.logo {
+    width: 400px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(158, 230, 226);
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    padding-left: 24px;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 150px;
+}
+
+.fig {
+    width: 400px;
+}
+
+.head {
+    font-size: 48px;
+}
+
+.pp {
+    font-size: 31px;
+    margin-top: 15px;
+}
+
+button {
+    font-size: 30px;
+    margin-top: 15px;
+    background-color: rgb(21, 240, 203);
+    border: 0px;
+    color: white;
+}
+
+.der {
+    background-color: rgb(229, 219, 253);
+}
+
+.Ab {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    padding: 20px;
+}
+
+.AAA {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Type {
+    width: 350px;
+}
+
+.p {
+    font-size: 18px;
+    margin: 18px;
+}
+
+.Ab {
+    background-color: rgb(167, 255, 240);
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+
+}
+
+.disc {
+    display: flex;
+    justify-content: space-between;
+}
+
+.min {
+    width: 400px;
+}
+
+.ddd {
+    font-size: 18px;
+    margin: 18px;
+}
+
+.Discord {
+    background-color: rgb(229, 219, 253);
+}
+
+.cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+}
+
+.act {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(158, 213, 247);
+    padding: 24px;
+}
+
+.copy {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 14px;
+}
+
+.logooo {
+    width: 400px;
+    margin-left: 260px;
+    margin-bottom: 14px;
+}
+
+footer {
+    background-color: rgb(167, 255, 240);
+}
+
+.ADC {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 24px;
+
+}
+
+.ends {
+    padding-left: 24px;
+}
